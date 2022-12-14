@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz de Trânsito</string>
+    <string name="nome_aluno">\tLucas Aparecido de Oliveira Marcuzo \n\n 1670482022023</string>
+    <string name="pontuacaoPadrao">\n40</string>
+    <string name="acertos">ACERTOS:</string>
+    <string name="nomejogador">nomeJogador</string>
+    <string name="ranking">Ranking</string>
+    <string name="jogarNovamente">Jogar Novamente</string>
+    <string name="telaPrincipal">Tela Principal</string>
+    <string name="responder">Próxima Pergunta</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="sair">SAIR</string>
+    <string name="iniciar_quiz">INICIAR QUIZ</string>
+    <string name="inserir_nome">Digite o seu nome</string>
+    <string name="qual_o_significado_desta_placa">Qual o significado desta placa?</string>
+    <string name="alternativad">AlternativaD</string>
+    <string name="alternativac">AlternativaC</string>
+    <string name="alternativab">AlternativaB</string>
+    <string name="alternativaa">AlternativaA</string>
+</resources>
